@@ -7,7 +7,7 @@ I'm VISHAL MAURYA, I'm a Web developer 👨‍💻 who is passionate about mobil
 🏄‍♂️. 
 
 - 🔭 I’m currently working on FRONT-END DEVELOPMENT
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React.js 
 - 💬 Ask me about: tech, memes, anime
 - 😄 Pronouns: he/him
 -  ⚡ Languages: Java, Python3.
