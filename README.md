@@ -6,3 +6,6 @@
 <a href="mailto:v1shalm1604@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/email.svg" alt="" height="30" width="40" /></a>
 
 </p>
+
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31rbld2xlkapqtf6szwqs7qmxmwu)
