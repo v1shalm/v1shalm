@@ -52,3 +52,6 @@
 ---
 
 [![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=v1shalm&show_icons=true&theme=dark)](https://github.com/v1shalm/github-readme-stats)
+  
+  <br/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v1shalm&layout=compact)](https://github.com/v1shalm/github-readme-stats)
