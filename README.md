@@ -47,7 +47,7 @@
 
 
 ### Now Playing 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mauryav518&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=mauryav518&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mauryav518&cover_image=true&theme=novatorem&bar_color=15cd0e&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=mauryav518&redirect=true)
 <br/>
 ---
 
