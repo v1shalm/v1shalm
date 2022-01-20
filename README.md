@@ -51,4 +51,4 @@
 <br/>
 ---
 
-[![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=v1shalm)](https://github.com/v1shalm/github-readme-stats)
+[![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=v1shalm&show_icons=true)](https://github.com/v1shalm/github-readme-stats)
