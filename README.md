@@ -1,4 +1,4 @@
-<img src="https://github.com/v1shalm/v1shalm/blob/6d1c2aa75f0a22f980f04d02070666a64116b359/portfolio.png">
+<img src="header.png">
 <br/>
 <br/>
 
